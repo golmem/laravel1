@@ -1,6 +1,4 @@
-@extends('base')
-
-@section('title','About-us | '.config('app.name'))
+@extends('base',['titre'=>'about-us'.config('app.name')])
 
 @section('content')
 <!--utilisation des helpers pour les fichiers statiques-->

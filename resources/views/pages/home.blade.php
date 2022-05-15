@@ -1,6 +1,6 @@
-@extends('base')
+@extends('base',['titre' => config('app.name')])
 
-@section('title')
+<title></title>
 
 @section('content')
 <img src=" {{asset('images/FlagQuebec.png') }} " width="300" height="150" alt="drapeau du quebec"
