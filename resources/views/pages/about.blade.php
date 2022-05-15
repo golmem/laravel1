@@ -4,7 +4,7 @@
 
 @section('content')
 <!--utilisation des helpers pour les fichiers statiques-->
-<img src=" {{asset('/images/1918.jpg') }} " width="300" height="150" alt="hacker"
+<img src=" {{asset('images/1918.jpg') }} " width="300" height="150" alt="hacker"
     class="rounded-full sm:rounded-md shadow-md my-12">
 <h2 class="mt-5 text-gray-800 font-semi-bold text-lg">
     built with les teachers du net <span class="text-pink-500">&hearts;</span>
