@@ -1,3 +1,3 @@
 # Hello-city
 
-cest une application qu permet d'afficher l'heure locale en fonction de votre ville 
+cest une application qu permet d'afficher l'heure locale d'un pays defini
